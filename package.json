@@ -1,0 +1,15 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "A command line hangman game using JS constructors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cassie Rabe",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^5.0.1"
+  }
+}
