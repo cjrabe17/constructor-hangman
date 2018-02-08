@@ -5,7 +5,6 @@ var Word = require("./Word");
 var wordsArr = ["eleven", "demogorgon", "hawkins", "upsidedown", "eggo", "madmax", "pollywog", "mindflayer", "walkietalkie", "digdug", "eighties"];
 
 var magicWord = wordsArr[Math.floor(Math.random() * 10)];
-console.log(magicWord);
 
 var word = "";
 var game = {
